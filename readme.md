@@ -1,12 +1,8 @@
 ![image](https://user-images.githubusercontent.com/82034934/191281792-6b45244e-9635-45a5-b6e8-529ff6d93268.png)
 
-<h2 align="center">
-  Python program that checks your valorant accounts
-</h2>
+<h2 align="center">  Python program that checks your valorant accounts</h2>
 
-<h3 align="center">
-Please leave a ⭐ if you like it
-</h3>
+<h3 align="center">Please leave a ⭐ if you like it</h3>
 
 ## Download Python
 [Download Python](https://www.python.org/downloads/) to start the checker if you don't have it
