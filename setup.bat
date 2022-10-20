@@ -1,7 +1,6 @@
 @echo off
 
 pip install urllib3
-cls
 echo Press enter to continue installation...
 pause >nul
 pip install requests
